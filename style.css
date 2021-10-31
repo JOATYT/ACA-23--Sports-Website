@@ -1,0 +1,65 @@
+
+a{
+    text-decoration:none;
+    font-size:40px;
+    padding:10px;
+    padding-right:40px;
+    padding-left:40px;
+    font-weight:bold;
+    color:cyan;
+}
+.nav{
+    text-align:center;
+    width:50%;
+    margin:0 auto;
+}
+a:hover{
+    background:linear-gradient(pink,red);
+    border-radius:20px;
+}
+.main{
+    background:url("https://static.toiimg.com/thumb/msid-82147662,width-1200,height-900,resizemode-4/.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+h2{
+    text-align:center;
+    font-size:50px;
+    color:red;
+    margin-top:20%;
+    margin-left:1150px;
+    text-transform:uppercase;
+    font-family:monospace;
+    font-style: italic;
+}
+.life{
+    background:linear-gradient(darkblue,rgb(102, 138, 236));
+}
+h1{
+    font-size:50px;
+    text-align:center;
+    text-decoration-line: underline;
+    font-weight:bold;
+    color:red;
+    margin-bottom:20px;
+}
+p{
+    color:white;
+    font-size:20px;
+}
+h3{
+    font-size:50px;
+    text-decoration-line: underline;
+    color:red;
+   text-align:center;
+}
+li{
+    font-size:20px;
+}
+.achievments{
+    background:linear-gradient(rgb(207, 196, 196),white);
+}
+*{
+    margin:0;
+}
